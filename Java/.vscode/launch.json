@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Telephone",
+            "request": "launch",
+            "mainClass": "Unit3.Telephone",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpinningThingy",
+            "request": "launch",
+            "mainClass": "Unit3.SpinningThingy",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleCypher",
+            "request": "launch",
+            "mainClass": "Unit3.SimpleCypher",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PizzaCode",
+            "request": "launch",
+            "mainClass": "Unit3.PizzaCode",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuadraticFormula",
+            "request": "launch",
+            "mainClass": "Unit3.QuadraticFormula",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GrowthRate",
+            "request": "launch",
+            "mainClass": "Unit3.GrowthRate",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WDTPDMath",
+            "request": "launch",
+            "mainClass": "Unit3.WDTPDMath",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Owo",
+            "request": "launch",
+            "mainClass": "Unit3.Owo",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Homework321",
+            "request": "launch",
+            "mainClass": "Unit3.Homework321",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Homework32",
+            "request": "launch",
+            "mainClass": "Unit3.Homework32",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Homework31",
+            "request": "launch",
+            "mainClass": "Homework31",
+            "projectName": "Java_b74d28bc"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ElapsedTimeConverter<Java_b74d28bc>",
+            "request": "launch",
+            "mainClass": "ElapsedTimeConverter",
+            "projectName": "Java_b74d28bc"
+        }
+    ]
+}
